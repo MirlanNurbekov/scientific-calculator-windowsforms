@@ -1,0 +1,10 @@
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\bin\Debug\Calculator_WindowsForms.exe.config
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\bin\Debug\Calculator_WindowsForms.exe
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\bin\Debug\Calculator_WindowsForms.pdb
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.Form1.resources
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.Properties.Resources.resources
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.csproj.GenerateResource.cache
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.exe
+C:\Users\mirla\Desktop\Learning curve\Calculator_WindowsForms\obj\Debug\Calculator_WindowsForms.pdb
