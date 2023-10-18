@@ -63,9 +63,8 @@
 			this.theScreen.BackColor = System.Drawing.SystemColors.Control;
 			this.theScreen.Location = new System.Drawing.Point(246, 156);
 			this.theScreen.Name = "theScreen";
-			this.theScreen.Size = new System.Drawing.Size(52, 13);
+			this.theScreen.Size = new System.Drawing.Size(0, 13);
 			this.theScreen.TabIndex = 1;
-			this.theScreen.Text = "DISPLAY";
 			this.theScreen.Click += new System.EventHandler(this.label1_Click);
 			// 
 			// value2
